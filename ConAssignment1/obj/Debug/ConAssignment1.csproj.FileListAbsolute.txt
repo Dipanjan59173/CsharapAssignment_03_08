@@ -1,0 +1,7 @@
+E:\Tranning\DotNetConsoleApps\Assignment03_08\Assignment1\ConAssignment1\ConAssignment1\bin\Debug\ConAssignment1.exe.config
+E:\Tranning\DotNetConsoleApps\Assignment03_08\Assignment1\ConAssignment1\ConAssignment1\bin\Debug\ConAssignment1.exe
+E:\Tranning\DotNetConsoleApps\Assignment03_08\Assignment1\ConAssignment1\ConAssignment1\bin\Debug\ConAssignment1.pdb
+E:\Tranning\DotNetConsoleApps\Assignment03_08\Assignment1\ConAssignment1\ConAssignment1\obj\Debug\ConAssignment1.csproj.CoreCompileInputs.cache
+E:\Tranning\DotNetConsoleApps\Assignment03_08\Assignment1\ConAssignment1\ConAssignment1\obj\Debug\ConAssignment1.exe
+E:\Tranning\DotNetConsoleApps\Assignment03_08\Assignment1\ConAssignment1\ConAssignment1\obj\Debug\ConAssignment1.pdb
+E:\Tranning\DotNetConsoleApps\Assignment03_08\Assignment1\ConAssignment1\ConAssignment1\obj\Debug\ConAssignment1.csprojAssemblyReference.cache
