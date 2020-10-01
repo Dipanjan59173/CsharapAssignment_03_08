@@ -14,10 +14,12 @@ namespace ConAssignment1
             var MyArray = new string[] { "Zebra", "Ant", "Owl", "Lion" };
             var animals = new string[] { "Zebra", "Kiwi", "Amazona Parrot", "Tiger" };
             var places = new string[] { "Africa", "New Zealand", "Jamaica", "India" };
+            var friends = new string[] { "Dipnjan", "Subho", "Soumya"};
 
              Array.Sort(MyArray);
              Array.Sort(animals);
              Array.Sort(places);
+            Array.Sort(friends);
 
             //Array.Reverse(animals);
 
